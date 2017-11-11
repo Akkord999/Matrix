@@ -111,6 +111,8 @@ public class Matrix_lib {
 		return ans;
 	}
 	
+	
+	
 	//ƒNƒ‰ƒƒ‹‚ÌŒö®ì‚è‚©‚¯
 	/*public double [] getSolution(double [][] a,double [] b) {
 		double x = this.getCofactor(a);
